@@ -1,0 +1,38 @@
+* {
+    font-family:"JetBrainsMono Nerd Font";
+    font-size: 13px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+window#waybar {
+    background-color: transparent;
+}
+#workspaces button {
+    padding: 0 5px;
+    background-color: transparent;
+    color: #ffffff;
+}
+
+
+
+.modules-left, .modules-center, .modules-right {
+    background: rgba(85, 122, 161, 0.80);
+    border: 4px solid #73b7ff;
+    border-radius:15px;
+    margin: 5px;
+    padding: 2px 9px;
+}
+
+#clock {
+    background-color: transparent;
+}
+
+#cpu {
+    background-color: transparent;
+}
+
+#memory {
+    background-color: transparent;
+}
+
