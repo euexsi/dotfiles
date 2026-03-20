@@ -10,7 +10,8 @@ A clean, performance-oriented configuration for the **Niri** scrollable tiling c
 * **OS:** Arch Linux
 * **WM:** [Niri](https://github.com/YaLTeR/niri)
 * **Bar:** Waybar
-* **Terminal:*** **Shell:** Zsh
+* **Terminal:** Kitty
+* **Shell:** Zsh
 
 ---
 
