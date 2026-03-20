@@ -9,16 +9,15 @@ A clean, performance-oriented configuration for the **Niri** scrollable tiling c
 ## 💻 Tech Stack
 * **OS:** Arch Linux
 * **WM:** [Niri](https://github.com/YaLTeR/niri)
-* **Bar:** Waybar 
-* **Terminal:** Kitty
-* **Shell:** Zsh
+* **Bar:** Waybar
+* **Terminal:*** **Shell:** Zsh
 
 ---
 
 ## ✨ Highlights
 * **Smooth Navigation:** Optimized Niri keybindings for effortless window scrolling.
 * **Minimalist Waybar:** Only essential modules (CPU, RAM, Clock).
-* **Modular Structure:** Easy to copy, edit
+* **Modular Structure:** Easy to copy, edit, and break.
 
 ---
 
@@ -26,23 +25,22 @@ A clean, performance-oriented configuration for the **Niri** scrollable tiling c
 
 1. **Clone the repo:**
 ```bash
-   git clone https://github.com/euexsi/dotfiles.git
-   cd dotfiles```
+git clone https://github.com/euexsi/dotfiles.git
+cd dotfiles
+```
 
 2. **Deploy configs:**
-
 ```bash
-   cp -rv niri/ waybar/ ~/.config/```
+cp -rv niri/ waybar/ ~/.config/
+```
 
-## 👤 About Me 
+---
+
+## 👤 About Me
 Just a 16-year-old explorer. I've been on Arch Linux for exactly **one week**. 
 Learning the hard way, one config at a time. 🚀
-
 
 ---
 
 ## 📜 License
 Licensed under the **MIT License**.
-EOF
-
-
