@@ -25,14 +25,14 @@ A clean, performance-oriented configuration for the **Niri** scrollable tiling c
 ## 🛠️ Installation
 
 1. **Clone the repo:**
-   ```bash
-   git clone [https://github.com/euexsi/dotfiles.git](https://github.com/твой-ник/твой-репозиторий.git)
-   cd dotfiles
+```bash
+   git clone https://github.com/euexsi/dotfiles.git
+   cd dotfiles```
 
 2. **Deploy configs:**
-   cp -rv niri/ waybar/ ~/.config/
 
----
+```bash
+   cp -rv niri/ waybar/ ~/.config/```
 
 ## 👤 About Me 
 Just a 16-year-old explorer. I've been on Arch Linux for exactly **one week**. 
