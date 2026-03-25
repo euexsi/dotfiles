@@ -12,7 +12,9 @@ A clean, performance-oriented configuration for the **Niri** scrollable tiling c
 * **Bar:** Waybar
 * **Terminal:** Kitty
 * **Shell:** Zsh
-
+* **Launcher:** Fuzzel
+* **Wallpaper Engine:** Mpvpaper
+* **Fetch:** Fastfetch
 ---
 
 ## ✨ Highlights
@@ -38,7 +40,7 @@ cp -rv niri/ waybar/ ~/.config/
 ---
 
 ## 👤 About Me
-Just a 16-year-old explorer. I've been on Arch Linux for exactly **one week**. 
+Just a 16-year-old explorer. I've been on Arch Linux for exactly **two week**. 
 Learning the hard way, one config at a time. 🚀
 
 ---
