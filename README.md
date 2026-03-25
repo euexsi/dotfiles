@@ -34,7 +34,7 @@ cd dotfiles
 
 2. **Deploy configs:**
 ```bash
-cp -rv niri/ waybar/ ~/.config/
+cp -rv niri/ waybar/ fastfetch/ ~/.config/
 ```
 
 ---
